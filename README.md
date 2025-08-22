@@ -1,5 +1,5 @@
-# Protoboards-AE
-Protoboards for the AE Modular format.
+# Protoboards
+Protoboards for the AE Modular and Eurorak formats. Maybe some other things too.
 
 ## License
 This project is open hardware under the [CERN-OHL-W](https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/82b567f43ce515395f7ddbfbad7a8806/cern_ohl_w_v2.txt). This is the "weakly reciprocal" variant.
