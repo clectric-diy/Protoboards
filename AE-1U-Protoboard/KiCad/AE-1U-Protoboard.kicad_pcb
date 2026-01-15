@@ -8,10 +8,10 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "AE_1U_Protoboard")
+		(title "AE-1U-Protoboard")
 		(date "2026-01-15")
 		(rev "0.1")
-		(company "Copyright © 2026 clectric.diy Licensed under CERN-OHL-S v2")
+		(company "Copyright © 2026 clectric.diy Licensed under CERN-OHL-W v2")
 		(comment 1 "Charles H. Leggett")
 	)
 	(layers
@@ -94,7 +94,6 @@
 			(dielectric_constraints no)
 		)
 		(pad_to_mask_clearance 0)
-		(solder_mask_min_width 0.12)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
 		(aux_axis_origin 116.4206 55.0856)
