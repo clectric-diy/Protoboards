@@ -16,8 +16,6 @@
 	)
 	(layers
 		(0 "F.Cu" signal "Front")
-		(4 "In1.Cu" signal)
-		(6 "In2.Cu" signal)
 		(2 "B.Cu" signal "Back")
 		(13 "F.Paste" user)
 		(15 "B.Paste" user)
@@ -49,29 +47,7 @@
 			)
 			(layer "dielectric 1"
 				(type "core")
-				(thickness 0.480066)
-				(material "FR4")
-				(epsilon_r 4.5)
-				(loss_tangent 0.02)
-			)
-			(layer "In1.Cu"
-				(type "copper")
-				(thickness 0.035)
-			)
-			(layer "dielectric 2"
-				(type "prepreg")
-				(thickness 0.480066)
-				(material "FR4")
-				(epsilon_r 4.5)
-				(loss_tangent 0.02)
-			)
-			(layer "In2.Cu"
-				(type "copper")
-				(thickness 0.035)
-			)
-			(layer "dielectric 3"
-				(type "core")
-				(thickness 0.480066)
+				(thickness 1.510198)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -17954,7 +17930,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "9da1a5b9-492d-443c-857f-a0b6737e8222")
+			(uuid "4460a5b6-a3cb-467b-94fa-55c5008f892a")
 			(effects
 				(font
 					(size 1 1)
@@ -17967,7 +17943,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f98f137a-9d16-419e-920e-6a6ec2997829")
+			(uuid "5a889eb3-ef39-468b-94b1-c7d28e8cec58")
 			(effects
 				(font
 					(size 1 1)
@@ -17980,7 +17956,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ae2036b4-f13b-4727-89d1-1d9a21b20d12")
+			(uuid "857ed73c-5961-412b-a424-0c64de6c00b9")
 			(effects
 				(font
 					(size 1 1)
@@ -17993,7 +17969,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "de258f55-cda3-4222-9f1e-4d057f1fc213")
+			(uuid "5ea764f3-43ea-4397-a39c-7e4d13eebc19")
 			(effects
 				(font
 					(size 1 1)
